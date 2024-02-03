@@ -11,4 +11,6 @@ now development is completed
 
 ### squash
 started development
-co
+* adding more code
+* still adding more code
+* now it is completed
