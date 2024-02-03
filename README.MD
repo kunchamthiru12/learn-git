@@ -14,3 +14,8 @@ started development
 * adding more code
 * still adding more code
 * now it is completed
+
+
+### conflict
+
+this is developer-1. I want to keep this line of code
