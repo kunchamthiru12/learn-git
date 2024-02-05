@@ -1,4 +1,4 @@
-### GIT
+i### GIT
 This is the first commit from main branch
 
 ### feature-1
@@ -19,4 +19,4 @@ now it is completed
 ### conflict
 this is from developer-1. I want to keep this line of code
 again developer-1 add more code.
-<!-- # I am developer-2, just now it is completed -->
+I am developer-2, just now it is completed 
